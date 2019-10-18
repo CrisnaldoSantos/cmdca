@@ -1,0 +1,19 @@
+h1{
+	text-align: center;
+	/*Este h1 é usado para alinhar título*/
+}
+h3{
+	text-align: center;
+	/*Este h3 é usado para alnhar o subtítulo*/
+}
+p{
+	margin-left: 23%;
+	width: 55%;
+	/*Este p é usado para ajustar o posicionamento do texto*/
+}
+img{
+	margin-left: 26.5%;
+    width: 660px;
+    height: 200px;
+    /*Este img é usado para ajustar o posicionamento e tamanho da imagem*/
+}

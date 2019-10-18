@@ -1,0 +1,25 @@
+body {
+    width: 100%;
+    font-family: Arial;
+}
+
+.box {
+    width: 330px;
+    height: auto;
+    float: left;
+}
+
+div#a-b {
+    width: 1050px;
+    height: auto;
+    margin: auto;
+}
+
+div#a-b h2 {
+    text-align: left;
+    display: inline;
+}
+
+.left {
+    margin-left: 20px;
+}

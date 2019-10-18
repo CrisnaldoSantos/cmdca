@@ -1,0 +1,35 @@
+img.cm {
+    top: 50%;
+    right: 0;
+    height: 300px;
+}
+
+.c {
+    margin-top: -270px;
+}
+
+h2 {
+    text-align: center;
+}
+
+
+/* class texto ao lado da imagem*/
+
+b {
+    color: #FF0000;
+}
+
+
+/*Baixar em negrito e em cor vermelha*/
+
+p {
+    text-align: left;
+}
+
+
+/*texto ao lado esquerdo e no centro*/
+
+.container {
+    width: 500px;
+    margin: 0 auto;
+}

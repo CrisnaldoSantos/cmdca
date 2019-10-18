@@ -1,0 +1,70 @@
+.textc {
+    text-align: center;
+}
+
+.img1 {
+    width: 350px;
+    height: 300px;
+}
+
+.div1 {
+    position: relative;
+    left: 80px;
+}
+
+.text1 {
+    padding-left: 70px;
+}
+
+.link1 {
+    padding-left: 110px;
+}
+
+.img2 {
+    width: 350px;
+    height: 300px;
+}
+
+.div2 {
+    position: relative;
+    left: 480px;
+    top: -410px;
+}
+
+.text2 {
+    padding-left: 90px;
+}
+
+.link2 {
+    padding-left: 115px;
+}
+
+.img3 {
+    width: 350px;
+    height: 300px;
+}
+
+.div3 {
+    position: relative;
+    left: 870px;
+    top: -790px;
+}
+
+.text3 {
+    padding-left: 80px;
+}
+
+.link3 {
+    padding-left: 140px;
+}
+
+.bot {
+    position: relative;
+    left: 570px;
+    top: -770px;
+}
+
+.botc {
+    background-color: #8A2BE2;
+    color: white;
+}

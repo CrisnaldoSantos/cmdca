@@ -1,0 +1,25 @@
+.cor {
+    color: red;
+}
+
+h2 {
+    text-align: center;
+}
+
+p {
+    text-align: left;
+}
+
+a {
+    text-align: left;
+}
+
+#img {
+    width: 35%;
+    height: 250px;
+    float: left;
+}
+
+.div {
+    background-color: red;
+}
