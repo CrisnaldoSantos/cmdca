@@ -1,0 +1,100 @@
+#conteudo-left {
+    width: 30%;
+    float: left;
+    font-size: 17pt;
+    font-family: Verdana, sans-serif;
+    /* atributos da coluna-esquerda do site */
+}
+
+#margim {
+    margin-left: 4%;
+    /* margin do conteudo-left */
+}
+
+#conteudo-right {
+    width: 70%;
+    float: left;
+    font-size: 19pt;
+    font-family: Helvetica, sans-serif;
+    font-weight: bold;
+    /* atributos da coluna-direita do site */
+}
+
+#margim2 {
+    margin-top: 2%;
+    margin-left: 2%;
+    /* margin do conteudo-rigth */
+}
+
+#paragrafo {
+    font-family: Times New Roman;
+    font-weight: normal;
+    font-size: 16pt;
+    /* fonte e tamanho do texto */
+}
+
+#coluna1 {
+    width: 60%;
+    float: left;
+    /* coluna 1 do conteudo-right */
+}
+
+#coluna2 {
+    width: 40%;
+    float: left;
+    /* coluna 2 do conteudo-right */
+}
+
+.inputcol1 {
+    width: 58%;
+    height: 30px;
+    /* input do Nome e E-mail pertecente a coluna 1 do conteudo-right */
+}
+
+.inputcol2 {
+    width: 87%;
+    height: 30px;
+    /* input do Telefone e Assunto pertecente a coluna 2 do conteudo-right*/
+}
+
+#mensagem {
+    width: 95%;
+    height: 200px;
+    /* largura e Tamanho da Tag Textarea */
+}
+
+#buttonroxo {
+    border-radius: 50px;
+    width: 23%;
+    height: 60px;
+    font-size: 17pt;
+    color: white;
+    background-color: purple;
+    float: left;
+    margin-left: 100px;
+    /* atributos do butao de "Enviar Mensagem" */
+}
+
+#buttonazul {
+    border-radius: 50px;
+    width: 23%;
+    height: 60px;
+    font-size: 17pt;
+    color: white;
+    background-color: #1E90FF;
+    float: right;
+    margin-right: 100px;
+    /* atributos do butao de "Enviar Mensagem" */
+}
+
+a {
+    text-decoration: none;
+    color: white;
+}
+
+.espacamento {
+    line-height: 200%;
+}
+
+
+/* espaçamento entre linhas */

@@ -1,0 +1,85 @@
+h1 {
+    text-align: center;
+    /*esse h1 centraliza o titulo "projetos"*/
+}
+
+h2 {
+    color: white;
+    margin-left: 10px;
+    /*esse h2 define a cor do sub-titulos*/
+}
+
+p {
+    margin-left: 10px;
+    color: white;
+    /*esse p define a cor do texto*/
+}
+
+img {
+    width: 600px;
+    height: 300px;
+    margin-left: 20px;
+    /*essa e a img do projeto "a arte de previnir"*/
+}
+
+.div1 {
+    width: 600px;
+    height: 220px;
+    background-color: #7F3FBF;
+    margin-top: -25px;
+    margin-left: 20px;
+    /*essa div e que vale ao Primeiro texto do projeto "a arte de previnir"*/
+}
+
+.img1 {
+    width: 600px;
+    height: 300px;
+    position: absolute;
+    top: 350px;
+    left: 650px;
+    /*essa img e que vale ao projeto "agente M"*/
+}
+
+.div2 {
+    width: 600px;
+    height: 200px;
+    background-color: #B572F7;
+    margin-left: 662px;
+    margin-top: -200px;
+    /*essa div e a que vale ao texto "agente M"*/
+}
+
+.img2 {
+    width: 600px;
+    height: 220px;
+    position: absolute;
+    margin-top: -10px;
+    /*essa img e que vale ao projeto "Aprender sem medo"*/
+}
+
+.div3 {
+    width: 600px;
+    height: 200px;
+    background-color: #7F3FBF;
+    margin-top: 280px;
+    margin-left: 20px;
+    /*essa div e que vale ao texto do projeto "aprender sem medo"*/
+}
+
+.img3 {
+    width: 600px;
+    height: 200px;
+    position: absolute;
+    margin-left: 642px;
+    margin-top: -490px;
+    /*essa img e que vale ao projeto"comunidade viva"*/
+}
+
+.div4 {
+    width: 600px;
+    height: 210px;
+    background-color: #7F3FBF;
+    margin-top: -210px;
+    margin-left: 662px;
+    /*essa div e que vale ao texto da img "comunidade viva"*/
+}

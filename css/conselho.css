@@ -1,0 +1,85 @@
+/*ultilizada pra  austar os textos das tags h1*/
+
+h1 {
+    text-align: center;
+}
+
+
+/*ultilizada pra ajustar os textos das tags h3*/
+
+h3 {
+    margin-left: 150px;
+}
+
+
+/*ultilizada pra ajustar a div principal*/
+
+.cx1 {
+    width: 200px;
+    height: 200px;
+    border: 2px;
+    background-color: #A937D8;
+    margin-left: 100px;
+    float: left;
+}
+
+
+/*ultilizada pra ajustar a div com a função de cada conselheiro*/
+
+.cx2 {
+    width: 200px;
+    height: 40px;
+    border: 2px;
+    background-color: #8826B1;
+    margin-right: 25px;
+    float: left;
+}
+
+
+/* ultilizada pra ajustar as funções dos conselheiros*/
+
+.pres {
+    text-align: center;
+    color: white;
+    margin-top: 10px;
+}
+
+
+/*ultilizada pra ajustar a imagem*/
+
+.img1 {
+    width: 40px;
+    height: 40px;
+    margin-top: 30px;
+    margin-left: 10px;
+    border-radius: 50px;
+}
+
+
+/*ultilizada pra ajustar a div das entidades*/
+
+.bottom {
+    font-size: 10pt;
+    margin-top: 120px;
+    margin-right: 10px;
+    margin-left: 10px;
+    color: white;
+}
+
+
+/*ultilizada pra ajustar a div com o nome dos conselheiros*/
+
+.size {
+    font-size: 10pt;
+    float: right;
+    margin-top: 40px;
+    margin-right: 20px;
+    color: white;
+}
+
+
+/*ultilizada pra ajustar as 4 divs de baixo*/
+
+.float {
+    float: left;
+}
